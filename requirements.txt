@@ -1,4 +1,4 @@
-fflask
+flask
 flask-cors
 gunicorn
 pandas>=2.2.0
